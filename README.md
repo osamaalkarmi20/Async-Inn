@@ -1,9 +1,9 @@
 # Async-Inn
 this is a simple api project that we will make on a several labs and it starts on the with the first lab 11 which will include the ERD(Entity Relationship Diagram:
 ## Digram:
-![diagram](Diagram.png)
+![diagram](diagram.png)
 and here isthe link to it for more clearer view.
-[diagram](Untitled Diagram.drawio.html)
+[diagram](diagramhtml.html)
 ## Explanation:
 
 1. Location entity: Represents a hotel location.
